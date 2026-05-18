@@ -1,8 +1,15 @@
 bg {
-  
+    background-color: green;
+    gradient: cent;
 }
 
 h {
 
 
+}
+
+p {
+  background-color: black;
+  align-text: center;
+  font-family: "Times New Roman";
 }
